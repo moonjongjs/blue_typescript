@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blue_typescript/static/css/main.6157deea.css",
+    "main.js": "/blue_typescript/static/js/main.5c8a6419.js",
+    "index.html": "/blue_typescript/index.html",
+    "main.6157deea.css.map": "/blue_typescript/static/css/main.6157deea.css.map",
+    "main.5c8a6419.js.map": "/blue_typescript/static/js/main.5c8a6419.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6157deea.css",
+    "static/js/main.5c8a6419.js"
+  ]
+}
