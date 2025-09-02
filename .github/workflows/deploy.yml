@@ -3,7 +3,7 @@ name: Deploy CRA TypeScript app to GitHub Pages
 on:
   push:
     branches:
-      - main   # main 브랜치 push시 실행 테스트
+      - master   # main 브랜치 push시 실행 테스트
 
 jobs:
   build-and-deploy:
