@@ -98,7 +98,19 @@ git add .
 git commit -m "trigger deploy workflow"
 git push origin master
 
+git add .
+git commit -m "add deploy workflow"
+git push origin main
+
+
 ```
+
+7. 실행 로그 확인
+
+GitHub → 저장소 → Actions 탭 → Deploy CRA TypeScript app to GitHub Pages 선택
+
+거기서 build project → Deploy to GitHub Pages 단계까지 녹색 체크(✅)가 뜨면 성공
+
 
 6. 최종 배포 URL
 
